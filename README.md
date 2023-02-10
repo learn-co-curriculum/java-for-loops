@@ -51,9 +51,8 @@ multiple times. The `for` loop takes multiple parameters:
 The syntax is as follows:
 
 ```java
-for (<initializing-statement>; <conditional>; <update-statement>) {
+for (initializing-statement; conditional; update-statement) {
     // Statements to run through each iteration of the loop
-    <code-to-run-for-each-iteration-through-the-loop>
 }
 ```
 
