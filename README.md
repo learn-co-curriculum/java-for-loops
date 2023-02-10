@@ -85,8 +85,7 @@ Let's break down what this `for` loop does:
 3. Establish that the value of `counter` should be incremented by one every
    time the loop is executed.
 
-If we revise our flowchart from before, we can fill it in to reflect this
-example:
+We can revise our flowchart from before to reflect this example:
 
 ![for-loop-example-flowchart](https://curriculum-content.s3.amazonaws.com/java-mod-1/for-loops/for-loop-example-flowchart.png)
 
