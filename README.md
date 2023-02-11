@@ -201,7 +201,10 @@ Java Visualizer can help us identify these errors.
 ## Conclusion
 
 Loops are a way for us to execute the same block of code multiple times. This
-saves us from writing a redundant amount of code. In this lesson, we learned
-about the `for` loop and how it is a good loop if we know how many times the
-loop should be executed. But what if we don't know how many times the code
-inside the loop should run? We'll learn more about that in the next lesson.
+saves us from writing a redundant amount of code and a maintainability
+nightmare in that we only have to write the repeated code once.
+
+In this lesson, we learned about the `for` loop and how it is a good loop if we
+know how many times the loop should be executed. But what if we don't know how
+many times the code inside the loop should run? We'll learn more about that in
+the next lesson.
