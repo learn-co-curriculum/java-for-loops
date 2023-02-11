@@ -31,7 +31,12 @@ print 100
 Notice how we would have to write a hundred `System.out.println()` statements if
 we were to write out this pseudocode in Java. But the pattern seems to be that
 we are executing a print statement a hundred times, just changing the value of
-what is printed. This is a good case to implement a loop!
+what is printed. While this code is rather simplistic in that it is only one
+line of code that we want to repeat over and over, imagine if it was a several
+lines of code that we wanted to repeat over and over? This could cause a
+maintenance nightmare of having to update repeated lines of code if we just
+wanted to make one little change! This is a good case to implement a loop, that
+will save us from several copy-paste issues when developing and maintaining.
 
 In this section, we will learn about different types of loops we can implement
 in Java. We'll start by learning about a `for` loop.
